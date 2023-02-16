@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Native Development
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about Software Engineering
-- 📫 How to reach me: <a href="https://linkedin.com/in/iroegbu-chukwuebuka-calistus">Iroegbu Chukwuebuka</a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/iroegbu-chukwuebuka-calistus" target="_blank">Iroegbu Chukwuebuka</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Nature and Food (African Foods Especially Beans With Anything)
 
